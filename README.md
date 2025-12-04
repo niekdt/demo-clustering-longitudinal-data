@@ -5,7 +5,7 @@ This repository contains the R scripts used in the analysis of the case study of
 * _lcmm_ R package, used for estimating GMM and GBTM - https://cran.r-project.org/package=lcmm
 * _kml_ R package, used for estimating KmL - https://cran.r-project.org/package=kml
 * _mclust_ R package, used for estimating LLPA - https://cran.r-project.org/package=mclust
-* _latrend_ R package: The longitudinal clustering framework that we have created, originating from the learnings of this work - https://github.com/philips-software/latrend
+* _latrend_ R package: The longitudinal clustering framework that we have created, originating from the learnings of this work - https://github.com/niekdt/latrend
 
 # Getting started
 1. Either load the Rstudio project file `demo.Rproj`, or start an R session with the working directory set to the root repository directory.
